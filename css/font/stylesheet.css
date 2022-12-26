@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Corporate S';
+    src: url('./../../font/Сorporate S/CorporateSW10-Regular.eot');
+    src: local('Corporate S W10 Regular'), local('CorporateSW10-Regular'),
+        url('./../../font/Сorporate S/CorporateSW10-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./../../font/Сorporate S/CorporateSW10-Regular.woff2') format('woff2'),
+        url('./../../font/Сorporate S/CorporateSW10-Regular.woff') format('woff'),
+        url('./../../font/Сorporate S/CorporateSW10-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corporate A';
+    src: url('./../../font/Corporate A/CorporateA-Regular.eot');
+    src: local('Corporate A Regular'), local('CorporateA-Regular'),
+        url('./../../font/Corporate A/CorporateA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./../../font/Corporate A/CorporateA-Regular.woff2') format('woff2'),
+        url('./../../font/Corporate A/CorporateA-Regular.woff') format('woff'),
+        url('./../../font/Corporate A/CorporateA-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
